@@ -1,0 +1,25 @@
+{
+  "name": "movie_demo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Rhaast <andy2008dd@qq.comm>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "movie"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

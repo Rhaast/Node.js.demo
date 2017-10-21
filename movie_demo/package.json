@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "bower": "^1.8.2",
+    "depd": "^1.1.1",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "moment": "^2.19.1",
+    "mongoose": "^4.12.3",
+    "underscore": "^1.8.3"
+  },
+  "name": "movie_demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
