@@ -1,0 +1,12 @@
+{
+  "name": "node-scrape",
+  "version": "0.0.1",
+  "description": "Scrape",
+  "main": "server.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest"
+  }
+}
